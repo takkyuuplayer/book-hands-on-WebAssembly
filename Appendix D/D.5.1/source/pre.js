@@ -1,1 +1,0 @@
-Module['dynamicLibraries'] = ['add.wasm'];
